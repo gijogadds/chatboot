@@ -1,1 +1,1 @@
-# Estamos desenvolvendo um chatboot com Groqcloud e streamlit.io.
+# Desenvolvendo um chatboot com Groqcloud e streamlit.io.
