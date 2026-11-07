@@ -2,3 +2,4 @@
 
 Link de acesso:
 https://chatboot-groq.streamlit.app/
+https://groq.com
